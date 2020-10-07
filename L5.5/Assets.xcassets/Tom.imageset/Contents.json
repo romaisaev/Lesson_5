@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Tom-Hardy-Dunkirk-World-Premiere-Red-Carpet-Fashion-Gucci-Christian-Louboutin-Tom-Lorenzo-Site-3.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
